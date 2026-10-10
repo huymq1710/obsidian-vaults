@@ -15,7 +15,6 @@ timeEntries:
     description: Work session
     endTime: 2026-10-09T09:53:33.974Z
 due: 2026-10-10
-tasknotes_manual_order: tnririririri
 completedDate: 2026-10-09
 ---
 
@@ -56,10 +55,10 @@ Trong hội thoại thân mật có dạng rút gọn như 食べれる, nhưng 
 
 # 👀👂 3. 見られます・聞けます và 見えます・聞こえます
 
-| Dạng | Cách hiểu | Ví dụ |
-| --- | --- | --- |
-| 見られます・聞けます | Có khả năng, điều kiện hoặc cơ hội để xem/nghe; thường có thể chủ động lựa chọn | このアプリで昔の番組が見られます。— Có thể xem chương trình cũ bằng ứng dụng này. |
-| 見えます・聞こえます | ==Hình ảnh/âm thanh tự lọt vào tầm nhìn hoặc tai==, không nhấn mạnh ý định | 窓から海が見えます。— Có thể nhìn thấy biển từ cửa sổ.／隣の部屋から音が聞こえます。— Có tiếng nghe thấy từ phòng bên cạnh. |
+| Dạng                                    | Cách hiểu                                                                       | Ví dụ                                                                                              |
+| --------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| <font color="#c0504d">見られます・聞けます</font> | Có khả năng, điều kiện hoặc cơ hội để xem/nghe; thường có thể chủ động lựa chọn | このアプリで昔の番組が見られます。— Có thể xem chương trình cũ bằng ứng dụng này.                                   |
+| <font color="#c0504d">見えます・聞こえます</font> | ==Hình ảnh/âm thanh tự lọt vào tầm nhìn hoặc tai==, không nhấn mạnh ý định      | 窓から海が見えます。— Có thể nhìn thấy biển từ cửa sổ.／隣の部屋から音が聞こえます。— Có tiếng nghe thấy từ phòng bên cạnh. |
 
 # 🧩 4. Các cách dùng của できます
 
@@ -68,7 +67,7 @@ Trong hội thoại thân mật có dạng rút gọn như 食べれる, nhưng 
   - 駅の前に新しいスーパーができました。— Một siêu thị mới đã mở/xây ở trước ga.
   - 日本で友達ができました。— Tôi đã kết bạn được ở Nhật.
 
-Trong mẫu thứ hai, に chỉ nơi sự vật xuất hiện; が đánh dấu sự vật được hình thành. Nghĩa cụ thể của できます phụ thuộc vào danh từ và ngữ cảnh.
+Trong mẫu thứ hai, に chỉ nơi sự vật xuất hiện; ==が== đánh dấu sự vật được hình thành. Nghĩa cụ thể của できます phụ thuộc vào danh từ và ngữ cảnh.
 
 # ⚖️ 5. だけ và しか
 
